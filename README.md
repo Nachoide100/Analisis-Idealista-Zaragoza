@@ -193,6 +193,8 @@ Se implementó una experiencia de usuario profunda mediante **Drill-through (Obt
 
 ![drill](https://github.com/Nachoide100/Analisis-Idealista-Zaragoza/blob/6be50519cf0e20a23cd5f7ad1b1c064fc422f4ff/visualizations/Captura%20de%20pantalla%202026-02-12%20192534.png)
 
+#### Acceso al informe dinámico en Power BI -> [informe](https://drive.google.com/file/d/1HeTp0BWK6H5dl48G5CTR_uzJI9ZmALUW/view?usp=drive_link)
+
 ### 💡 Conclusiones del Proyecto
 Este desarrollo ha cubierto el ciclo de vida completo del dato (ETL → DWH → BI), destacando por:
 
